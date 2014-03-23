@@ -1,5 +1,5 @@
 #Parsilo Overview
-=================
+
 
 A data collection tool. Gathers metrics for projects where clients are given services. The tool will record the type and quentity of a service, when and where it was made
 
@@ -13,7 +13,7 @@ Multiple projects can be setup and reporting can be given for just one project o
 - Custom location
 - Customise your own services
 - Questionaires
-=================
+
 
 ###Offline
 The data collection App will run with and without an internet connection. Data is synced automatically when a connection is available.
